@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/dileep-kishore/dileep-kishore/blob/master/github-metrics.svg)
+
 <!--
 **dileep-kishore/dileep-kishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
