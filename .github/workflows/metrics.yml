@@ -16,7 +16,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, repositories"
           plugin_lines: yes
-          plugin_isocalendar: yes
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_followup: yes
