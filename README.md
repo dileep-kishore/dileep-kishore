@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Metrics](https://github.com/dileep-kishore/dileep-kishore/blob/main/github-metrics.svg)
 
 <!--
