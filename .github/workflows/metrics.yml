@@ -12,6 +12,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           config_padding: 10 + 5%, 0
+          config_display: large
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
